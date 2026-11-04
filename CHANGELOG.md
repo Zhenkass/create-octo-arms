@@ -9,6 +9,12 @@ Platforms: the same version number ships for every supported Minecraft version (
 
 ## [Unreleased]
 
+### Changed
+
+- Ukrainian translation reads more naturally: Reach is now «Дальність», and Create and vanilla names (Backtank, Precision Mechanism, Sculk Sensor, Sculk Shrieker, Warden) match the game. Thanks @Zhenkass.
+
+## [1.6.0] - 2026-10-26
+
 ### Added
 
 - Silent Step, a fourth Rig enchantment (one level, enchanting table and anvil like the others). While the Rig is out the wearer dampens their own vibrations, like an item on wool: Sculk Sensors, Shriekers and Wardens hear neither the Tentacles, nor the wearer's steps, blocks broken or placed and items used; and the Rig plays none of its sounds. Stowed, the wearer walks and sounds as usual.
@@ -223,7 +229,8 @@ First release as **Create: Octo Arms** (mod id `tentaworks`), server-internal, n
 
 - Earlier builds were internal test versions and were not published.
 
-[Unreleased]: https://github.com/SenDeliver/create-octo-arms/compare/v1.5.1%2Bmc1.21.1...HEAD
+[Unreleased]: https://github.com/SenDeliver/create-octo-arms/compare/v1.6.0%2Bmc1.21.1...HEAD
+[1.6.0]: https://github.com/SenDeliver/create-octo-arms/compare/v1.5.1%2Bmc1.21.1...v1.6.0%2Bmc1.21.1
 [1.5.1]: https://github.com/SenDeliver/create-octo-arms/compare/v1.5.0...v1.5.1%2Bmc1.21.1
 [1.5.0]: https://github.com/SenDeliver/create-octo-arms/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/SenDeliver/create-octo-arms/compare/v1.3.1...v1.4.0
